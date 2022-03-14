@@ -1,0 +1,2 @@
+com.java_core.Game
+com.java_core.Java_24e_Ex3_NumberGuessingGame
