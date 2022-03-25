@@ -2,12 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/Files/Java/JSP/web/Login_Logout/welcome.jsp</file>
-            <file>file:/D:/Files/Java/JSP/web/Login_Logout/login.jsp</file>
-            <file>file:/D:/Files/Java/JSP/src/java/login_logout/LoginServlet.java</file>
-            <file>file:/D:/Files/Java/JSP/src/java/login_logout/LogoutServlet.java</file>
-            <file>file:/D:/Files/Java/JSP/web/JSP_Tags.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
