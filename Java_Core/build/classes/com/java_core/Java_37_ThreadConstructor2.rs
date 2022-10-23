@@ -1,2 +1,0 @@
-com.java_core.MyThreadRunnable
-com.java_core.Java_37_ThreadConstructor2

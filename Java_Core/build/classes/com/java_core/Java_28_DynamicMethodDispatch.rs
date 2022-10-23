@@ -1,3 +1,0 @@
-com.java_core.Java_28_DynamicMethodDispatch
-com.java_core.Phone
-com.java_core.SmartPhone
